@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 public class TestModel {
     private int id;
     private String string1;
-    private String string9;
+    private String string4;
     private double double1;
     private double double2;
 }
