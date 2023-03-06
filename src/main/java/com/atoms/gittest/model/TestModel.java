@@ -9,8 +9,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class TestModel {
     private int id;
-    private String string3;
-    private String string9;
+    private String string2;
+    private String string6;
     private double double1;
     private double double2;
 }
